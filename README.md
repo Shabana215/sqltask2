@@ -51,7 +51,7 @@ select * from expense_tracker;
 {
 "expense_id": 200, 
 "category" : "Health checkup",
-"date" : 11-02-2003,
+"date" : "11-02-2003",
 "amount" : 4200,
 "description" : "Doctor appointment and drugs",
 "payment_mode": "online and cash"
